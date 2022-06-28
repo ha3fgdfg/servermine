@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1656421794611
+  login: 1656421779974
+money: '0'
+last-account-name: CubRube
+logoutlocation:
+  world: cdeb3c53-7e55-4fae-865e-2125af67d6c3
+  world-name: SP
+  x: -698.8747896482039
+  y: 75.0
+  z: -527.5960233839953
+  yaw: -98.3950424194336
+  pitch: 14.999991416931152

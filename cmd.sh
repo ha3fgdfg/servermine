@@ -1,0 +1,1 @@
+java -Xmx2096M -Xms2096M -jar forge-1.16.5-36.2.9-a351a6b-DEV.jar
